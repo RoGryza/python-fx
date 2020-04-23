@@ -1,0 +1,5 @@
+.mypy_cache
+fx.db
+fx.egg-info
+**/*/__pycache__
+.hypothesis
